@@ -1,0 +1,42 @@
+{
+    "url": "https://new-frame.de/deutsch/coaching.html",
+    "slug": "coaching",
+    "title": "Coaching/Training - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## Coaching\n\n[![weiterbildungsexperten 200px](../assets/images/weiterbildungsexperten_200px.png)](https://www.seminarmarkt.de/Expertenprofil/Christiane-Waller,13437)\n\nDie Basis sind zum Beispiel bilaterale Hemisphärenstimulation, NLP-Fragetechniken und Kinesiologie. Spezialisten und erfahrene Coaches passen das Coaching individuell auf Ihre Bedürfnisse an.\n\n### Einzelcoaching\n\nEinzelcoachings bieten die Möglichkeit Einzelpersonen ganz spezifisch weiterzuentwickeln. In einem vertraulichen Rahmen können berufliche und persönliche Ziele mit dem Coach verwirklicht werden.\n\n### Gruppencoaching\n\nIn Gruppencoachings oder Supervisionsrunden können Sie für einzelne Gruppen Ihres Unternehmens individuelle Problemlösungen herbeiführen und die entsprechenden Mitarbeiter gemeinsam nach vorne bringen. Das kann bei Konflikten in einzelnen Abteilungen oder in der Managementebene sinnvoll sein.\n\n### **w** **w**\n\n**[Was ist wingwave®-Coaching? (externer Link)](http://wingwave.com/)**\n\n[**wingwave®-Coaching in der Sportpraxis**](../assets/documents/images/downloads/sport-coaching_wingwave.pdf)\n\n## Training\n\nDas wichtigste Kapital eines Unternehmens sind die Mitarbeiter*innen. Diese müssen durch die kontinuierliche Weiterentwicklung eines Unternehmens geführt und mitgenommen werden. Meist ist es deutlich leichter, Prozesse und Strukturen zu verändern, als die emotionale Beteiligung der Belegschaft dafür zu gewinnen. Es gilt die Mitarbeiter*innen fachlich und emotional fit für die anstehenden Themen zu machen. Ganz konkret können hier zum Beispiel gezielte Führungskräftetrainings in kleinen Gruppen schnell zu großen Erfolgen führen.\n\n## Energetische Psychologie\n\nDie energetische Psychologie basiert auf der Grundannahme, dass unsere Meridiane bzw. Energiefelder im Körper gelegentlich Blockaden aufweisen. Sie werden über eine Kombination aus einer Klopftechnik, kinesiologischen Tests und begleitenden Sprachmustern wieder in Fluss gebracht.\n\nEnergetische Psychologie ist besonders erfolgreich bei: spezifischen Ängsten, negativen Erfahrungen, Kummer, Niedergeschlagenheit,  Selbstwertproblemen, Schuld- und Schamgefühlen,  Leistungsblockaden, Energielosigkeit,  Frustrationen, Unruhe, Nervosität und Ärger, Schmerzzuständen, Jetlag  sowie bei Essstörungen und anderen Suchtverhalten\n\n[**Mehr Informationen zu energetischer Psychologie (externer Link)**](http://energypsych.com/)\n\n[![Video Poster](../assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg)](../assets/videos/new-frame_imagefilm_christiane_waller_s.mp4)"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/downloads/sport-coaching_wingwave.pdf",
+        "https://new-frame.de/images/videos/new-frame_imagefilm_christiane_waller_s.jpg",
+        "https://new-frame.de/images/videos/new-frame_imagefilm_christiane_waller_s.mp4",
+        "https://new-frame.de/images/weiterbildungsexperten_200px.png",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

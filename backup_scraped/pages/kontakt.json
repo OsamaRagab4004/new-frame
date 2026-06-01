@@ -1,0 +1,39 @@
+{
+    "url": "https://new-frame.de/deutsch/kontakt.html",
+    "slug": "kontakt",
+    "title": "Kontaktformular - new-frame",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## Kontaktformular\n\nGerne können Sie zur Kontaktaufnahme das nachfolgende Formular nutzen. Die mit * gekennzeichneten Felder sind Pflichtfelder und müssen ausgefüllt werden.\n\n### Ihre Firma\n\nFirmennameFirmenanschrift\n\n### Ansprechpartner\n\nIhr Name*Ihre Telefonnummer*Ihre E-Mail-Adresse*\n\n### Interesse an\n\nIch interessiere mich für*Mitarbeitertrainings\nWorkshops zum Thema \"Spitzenleistungen mit Spitzensportlern\"\nMaßnahmen zu BGM/BGF\nAnderer Bereich\nIhre Nachricht(1000 Zeichen übrig)*Bevorzugte KontaktaufnahmeE-MailTelefonDatenschutz*Ich habe die zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an info@new-frame.de widerrufen. [Datenschutzerklärung](./datenschutz.md) Spam-Schutz\n![](/components/com_breezingforms/images/captcha/securimage_show.php)\n\n [![captcha](../assets/images/components/com_breezingforms/images/captcha/refresh-captcha.png)](./kontakt.md) AbsendenPowered by BreezingForms"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/components/com_breezingforms/images/captcha/refresh-captcha.png",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

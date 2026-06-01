@@ -1,0 +1,42 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles/46-new-frame-im-land-des-laechelns.html",
+    "slug": "aktuelles_46-new-frame-im-land-des-laechelns",
+    "title": "new-frame im Land des Lächelns - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## new-frame im Land des Lächelns\n\nDetailsVeröffentlicht: 31. August 2015\n\n[**Bereich der dualen Karriereförderung von Spitzensportlern**](./component_content_id_7.md)\n\n**Einladung verschiedener Sportinstitutionen in China** **20.000 Sport-Eliteschulen**\n\n**Austausch mit Regierungsvertretern** **Persönlichkeitsentwicklung der Athletinnen und Athleten zu fördern**\n\nDie Rahmenbedingungen für diese Kooperationen werden in den nächsten Wochen und Monaten zwischen new-frame und den chinesischen Ansprechpartnern erarbeitet.\n\n- ![Erstliga-Fussball-Mannschaft_Jiangsu-Guoxin-Sainty_China](../assets/images/news/china_2015/thumbs/Erstliga-Fussball-Mannschaft_Jiangsu-Guoxin-Sainty_China.JPG)\n- ![Tempelanlage-China](../assets/images/news/china_2015/thumbs/Tempelanlage-China.JPG)\n- ![Terrakotta-Armee_Xi-An_China](../assets/images/news/china_2015/thumbs/Terrakotta-Armee_Xi-An_China.JPG)\n- ![new-frame_China](../assets/images/news/china_2015/thumbs/new-frame_China.JPG)"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/news/china_2015/thumbs/Erstliga-Fussball-Mannschaft_Jiangsu-Guoxin-Sainty_China.JPG",
+        "https://new-frame.de/images/news/china_2015/thumbs/Tempelanlage-China.JPG",
+        "https://new-frame.de/images/news/china_2015/thumbs/Terrakotta-Armee_Xi-An_China.JPG",
+        "https://new-frame.de/images/news/china_2015/thumbs/new-frame_China.JPG",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

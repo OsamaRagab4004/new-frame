@@ -1,0 +1,39 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles.html",
+    "slug": "aktuelles",
+    "title": "Aktuelles - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## [Resilienz-Test Personal Resilience Indicator – PRI](./aktuelles_71-resilienz-test-personal-resilience-indicator-pri.md)\n\nDetailsVeröffentlicht: 16. September 2022\n\n![pri resilienz resilience test new frame christiane waller](../assets/images/pri_resilienz-resilience-test_new-frame_christiane-waller.jpg)\n\n## **Was ist der PRI?**\n\n**Personal Resilience Indicator (PRI)**\n\nDie Bewertung beruht auf Selbsteinschätzungen, wobei die Teilnehmer:innen gebeten werden, sich auf ihre Erfahrungen aus den vergangenen vier Wochen zu konzentrieren. Daher können aktuelle Umstände und temporäre Gemütszustände das Ergebnis beeinflussen. Wir empfehlen grundsätzlich, den Fragebogen nicht an „schwierigen“ Tagen auszufüllen (z. B. kurz nach einem Konflikt, negativem Feedback oder einem enttäuschenden Erlebnis).\n\nDer PRI wurde in seiner englischen Originalfassung umfassend validiert. Er wurde für new-frame von einer professionellen Übersetzerin in die deutsche Sprache transferiert und lektoriert.\n\n**[www.resilienz-test.de](https://www.resilienz-test.de)**\n\n## [Unsicherheitsmanagement](./aktuelles_69-unsicherheitsmanagement.md)\n\nDetailsVeröffentlicht: 24. November 2020\n\nSicherheit ist ein Gefühl. Genau wie Unsicherheit auch. So wird Unsicherheitsmanagement zu Emotionsmanagement.\n\nDer achtsame Umgang mit Emotionen kann erlernt und vertieft werden. Für mehr innere Stabilität und Klarheit in turbulenten Zeiten wie wir sie gerade im Moment durchleben. Hier biete ich individuelle Programme für jede Kundengruppe zugeschnitten an."
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/pri_resilienz-resilience-test_new-frame_christiane-waller.jpg",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

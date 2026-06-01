@@ -1,0 +1,40 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles/57-ttt-trauma-tapping-technique.html",
+    "slug": "aktuelles_57-ttt-trauma-tapping-technique",
+    "title": "TTT - Trauma Tapping Technique - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## TTT - Trauma Tapping Technique\n\nDetailsVeröffentlicht: 25. April 2017\n\n![Certificate TTT Trauma Tapping Technique Christiane Waller - new-frame](../assets/images/news/ttt/zertifikat_ttt_christiane_waller.png)\n **TTT - Trauma Tapping Technique**\n\n[kontaktieren Sie uns](./kontakt.md)\n\n**[Zur Ansicht des Zertifikats \"TTT - Trauma Tapping Technique\" als PDF-Datei](../assets/documents/ttt-certified-christiane_waller_2017.pdf)**"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/news/ttt/zertifikat_ttt_christiane_waller.png",
+        "https://new-frame.de/images/pdf/ttt-certified-christiane_waller_2017.pdf",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "url": "https://new-frame.de/deutsch/netzwerk.html",
+    "slug": "netzwerk",
+    "title": "Netzwerk - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## Unser Netzwerk\n\n[![Issberner Coaching & Consulting](../assets/images/network/issberner_coaching_consulting.png)](http://www.issberner-coaching.de/)\n\nIssberner Coaching & ConsultingDr. Karin IssbernerMutschenweg 40b47877 Willich, Germany\n\n[www.issberner-coaching.de](http://www.issberner-coaching.de/)\n\n[![TTT empower yourself](../assets/images/network/TTT-empower-logo.png)](http://www.peacefulheart.se)\n\nTTT - Trauma Tapping Techniqueby Peaceful Heart Network Sweden\n\nGunilla Hamne & Ulf Sandström\n\nDiese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!\n [www.peacefulheart.se](http://www.peacefulheart.se)\n\n[![](../assets/images/network/EMCA_logo_kl.png)](http://www.multisportclubs.eu)\n\nEMCA European Multisport Club AssociationVia Monte Zebio 9CAP: 00195. Rome, Italy\n\nDiese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!\n [www.multisportclubs.eu](http://www.multisportclubs.eu)"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/network/EMCA_logo_kl.png",
+        "https://new-frame.de/images/network/TTT-empower-logo.png",
+        "https://new-frame.de/images/network/issberner_coaching_consulting.png",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

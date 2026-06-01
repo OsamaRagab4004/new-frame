@@ -1,0 +1,44 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles/55-vortrag-sport-und-karriere-inspiration-auf-dem-weg-zum-erfolg.html",
+    "slug": "aktuelles_55-vortrag-sport-und-karriere-inspiration-auf-dem-weg-zum-erfolg",
+    "title": "Vortrag „Sport und Karriere – Inspiration auf dem Weg zum Erfolg“ - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## Vortrag „Sport und Karriere – Inspiration auf dem Weg zum Erfolg“\n\nDetailsVeröffentlicht: 18. April 2017\n\nChristiane Waller (new-frame) wurde von der Tsinghua Universität Beijing und Mason Invest, einer international arbeitende Consultinggruppe, als Rednerin zu einem Vortrag eingeladen. Thema des Abends war: „Sport und Karriere – Inspiration auf dem Weg zum Erfolg“\n\n[Duale Karriere](./angebot_duale-karriere.md)\n\nDer offene Austausch wurde von beiden Seiten als informativ und zielführend empfunden.\n\n#### Impressionen zum Vortrag:\n\n- ![1_new_frame_tsinghua_universitaet_beijing2](../assets/images/news/vortrag_peking_uni/thumbs/1_new_frame_tsinghua_universitaet_beijing2.jpg)\n- ![2_new_frame_vortrag_universitaet1](../assets/images/news/vortrag_peking_uni/thumbs/2_new_frame_vortrag_universitaet1.jpg)\n- ![3_new_frame_vortrag_universitaet2](../assets/images/news/vortrag_peking_uni/thumbs/3_new_frame_vortrag_universitaet2.jpg)\n- ![4_new_frame_vortrag_universitaet3](../assets/images/news/vortrag_peking_uni/thumbs/4_new_frame_vortrag_universitaet3.jpg)\n\n- ![5_new_frame_vortrag_universitaet4](../assets/images/news/vortrag_peking_uni/thumbs/5_new_frame_vortrag_universitaet4.jpg)\n- ![6_new_frame_tsinghua_universitaet_beijing](../assets/images/news/vortrag_peking_uni/thumbs/6_new_frame_tsinghua_universitaet_beijing.jpg)"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/1_new_frame_tsinghua_universitaet_beijing2.jpg",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/2_new_frame_vortrag_universitaet1.jpg",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/3_new_frame_vortrag_universitaet2.jpg",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/4_new_frame_vortrag_universitaet3.jpg",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/5_new_frame_vortrag_universitaet4.jpg",
+        "https://new-frame.de/images/news/vortrag_peking_uni/thumbs/6_new_frame_tsinghua_universitaet_beijing.jpg",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

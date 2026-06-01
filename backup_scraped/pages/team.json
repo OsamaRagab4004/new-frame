@@ -1,0 +1,45 @@
+{
+    "url": "https://new-frame.de/deutsch/team.html",
+    "slug": "team",
+    "title": "Über mich - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "## Über mich\n\n## ![christiane waller](../assets/images/team/christiane_waller.jpg)\n\nIch wurde 1963 in Weil am Rhein geboren und bin dort aufgewachsen. Bedingt durch die Nähe zur Schweiz habe ich mich auf einer privaten Handelsschule (NSH - Handel und Kader) ausbilden lassen. Über Lufthansa führte mich mein Weg in die Selbständigkeit als Trainerin und Coach.\n\nBegegnungen mit Menschen sind das zentrale Thema in meinem Leben. Es ist immer wieder absolut fantastisch zu sehen, zu welchen Leistungen Menschen fähig sind, wenn sie die richtigen Impulse bekommen.\n\nHeinz von Försters Ausspruch \"Der Mensch ist kein human being, sondern ein human becoming\" gibt meine Grundhaltung gegenüber meinen Mitmenschen ziemlich genau wieder. Ich glaube fest an die Entwicklungsmöglichkeiten, die uns allen offenstehen.\n\nMein Bestreben ist es, nachhaltig und erfolgsorientiert für Sie zu arbeiten. Das bestmögliche Rüstzeug für dieses Ziel hole ich mir in kontinuierlichen Weiterbildungen und Supervisionen.\n\nIch habe folgende Zertifizierungen:\n\n- NLP Lehrtrainerin (DVNLP)\n- NLP Coach (DVNLP)\n- wingwave-Coach\n- TTT – Trauma Tapping Technique\n- Coach für Energetische Psychologie nach Dr. Fred Gallo\n- Ausbildung in Provokativem Stil nach Dr. Frank Farrelly\n- Crew Ressource Management\n\n## Videos: Die Coaching-Arbeit von new-frame im Überblick\n\n[![Video Poster](../assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg)](../assets/videos/new-frame_imagefilm_christiane_waller_s.mp4)\n\nImagefilm über die Arbeit von new-frame, mit Stimmen von Christiane Waller (CEO new-frame) und verschiedenen Klienten\n\n### Duale Karriere: Anna Klink über Ihre Erfahrungen\n\n[![Video Poster](../assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg)](../assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4)\n\nAnna Klink spricht als Testimonial über ihre Erfahrungen in der Arbeit mit new-frame\n\n[![Video Poster](../assets/images/videos/newframeblog_Duale-Karriere_01.jpg)](../assets/videos/newframeblog_Duale-Karriere_01.mp4)\n\nAnna Klink ist Torhüterin des Bayer 04 Leverkusen und U 20 Weltmeisterin. In Ihrer Laufbahn hat sie sich für den nachhaltigen Weg einer Dualen Karriere entschieden, dessen Vorteile sie in den Video-Blogs der nächsten Wochen näher erläutert. Sie wird hier auch näher auf die Wirkung des persönlichen Trainings und Coachings von new-frame eingehen, das sie in diesem Rahmen über den TSV Bayer 04 Leverkusen als weiteres Element für ihren Erfolg nutzen konnte. Natürlich erzählt sie auch über ihre Visionen für die Zukunft… Genießen Sie diese lebendigen und hoch motivierenden Statements!"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/team/christiane_waller.jpg",
+        "https://new-frame.de/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg",
+        "https://new-frame.de/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4",
+        "https://new-frame.de/images/videos/new-frame_imagefilm_christiane_waller_s.jpg",
+        "https://new-frame.de/images/videos/new-frame_imagefilm_christiane_waller_s.mp4",
+        "https://new-frame.de/images/videos/newframeblog_Duale-Karriere_01.jpg",
+        "https://new-frame.de/images/videos/newframeblog_Duale-Karriere_01.mp4",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

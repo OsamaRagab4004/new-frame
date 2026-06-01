@@ -1,0 +1,48 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles/2015.html?view=archive&month=9",
+    "slug": "aktuelles_2015",
+    "title": "Aktuelles - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "MonatJanFebMärAprMaiJunJulAugSepOktNovDezJahr2015201720195101520253050100AlleFilter\n\n## [Seminarreise \"Auszeit mit Gipfelstürmen\" Teneriffa 2020](./aktuelles_66-seminarreise-auszeit-mit-gipfelstuermen-teneriffa-2020.md)\n\nDetailsVeröffentlicht: 18. September 2019\n\n![S Flyer Auszeit 2020 online](../assets/images/news/teneriffa_2020/S_Flyer_Auszeit_2020_online.jpg)\n\n**Bewegen - Entspannen – Reflektieren**\n\nIn dieser Woche haben Sie die Möglichkeit, sich intensiv um sich selbst, Ihre Fitness und Ihr Wohlbefinden zu kümmern. In diversen Trainingssessions können Sie reflektieren, was gerade wichtig für Sie ist und erlernen wirksame Instrumente zum Selbst- und Emotionsmanagement.\n\n**Zeitraum:**\n\nDetails\n\n## [KickOff-Veranstaltung \"Spitzenleistungen mit Spitzensportlern\"](./aktuelles_47-kickoff-veranstaltung-spitzenleistungen-mit-spitzensportlern.md)\n\nDetailsVeröffentlicht: 28. September 2015\n\n**[hier zum Download](../assets/documents/images/downloads/startschuss_neues_trainingskonzept_new-frame.pdf)**\n\nVielen Dank nochmals an alle Beteiligten und Gäste für die mehr als gelungene Veranstaltung.\n\n#### Impressionen von der Veranstaltung im Schloss Eulenbroich:\n\n- ![workshop_teil1_001](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_001.jpg)\n- ![workshop_teil1_002](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_002.jpg)\n- ![workshop_teil1_025](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_025.jpg)\n- ![workshop_teil1_059](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_059.jpg)\n\n- ![workshop_teil1_061](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_061.jpg)\n- ![workshop_teil1_097](../assets/images/news/kickoff_2015/thumbs/workshop_teil1_097.jpg)\n- ![workshop_teil2_001](../assets/images/news/kickoff_2015/thumbs/workshop_teil2_001.jpg)\n- ![workshop_teil2_022](../assets/images/news/kickoff_2015/thumbs/workshop_teil2_022.jpg)\nDetails"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/downloads/startschuss_neues_trainingskonzept_new-frame.pdf",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_001.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_002.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_025.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_059.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_061.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil1_097.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil2_001.jpg",
+        "https://new-frame.de/images/news/kickoff_2015/thumbs/workshop_teil2_022.jpg",
+        "https://new-frame.de/images/news/teneriffa_2020/S_Flyer_Auszeit_2020_online.jpg",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

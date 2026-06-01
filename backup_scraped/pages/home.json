@@ -1,0 +1,64 @@
+{
+    "url": "https://new-frame.de/deutsch/",
+    "slug": "home",
+    "title": "Startseite - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "page_builder_section",
+            "id": "section-id-1702484441219",
+            "title": "Section 1",
+            "text_content": "![Image](../assets/images/slideshows/startseite.jpg)",
+            "sub_type": "Page Builder Section"
+        },
+        {
+            "type": "page_builder_section",
+            "id": "section-id-1702484441225",
+            "title": "Consulting für Ihren Erfolg",
+            "text_content": "### Consulting für Ihren Erfolg\n\nWir verbinden Menschen und Organisationen: Mit einem high-end internationalen Netzwerk unterstützt new-frame Firmen und Organisationen dabei Geschäfte, zum Beispiel im internationalen Verkauf, noch erfolgreicher zu gestalten. Die gesamten Prozesse werden professionell begleitet und bis zum Abschluss gebracht. Ihre geschäftliche und persönliche Entwicklung ist bei uns in den richtigen Händen.\n\n [Mehr zum Consulting](./consulting.md) \n![Image](../assets/images/consulting/consulting-new-frame.jpg)\n\n### Coaching & Training\n\nMit verschiedenen Trainings- und Coachingkompetenzen begleiten wir Sie und Ihre Organisationen im Soft-Skills Bereich durch Veränderungs- und Entwicklungsprozesse.         Unser Haupt-Fokus liegt dabei auf Talenten im Management und im Hochleistungssport.\n\n [Mehr zum Coaching & Training](./coaching.md) \n![Image](../assets/images/2023/12/18/coaching-training-new-frame.jpg)",
+            "sub_type": "Section: Consulting für Ihren Erfolg"
+        },
+        {
+            "type": "page_builder_section",
+            "id": "section-id-1702495994352",
+            "title": "KONTAKT",
+            "text_content": "### KONTAKT\n\n**Christiane Waller - Geschäftsführerin new-frame**\n\n![christiane waller](../assets/images/team/christiane_waller.jpg)\n\n*Historisches Gebäude „Alter Bahnhof Gangelt“:*\n\n*Barrierefreies Arbeiten auf dem Bauernhof:*\n\n[info@new-frame.de](mailto:info@new-frame.de)",
+            "sub_type": "Section: KONTAKT"
+        },
+        {
+            "type": "references_slider",
+            "title": "References / Testimonials Slider",
+            "text_content": "\"Ich kann PRI jeder Führungskraft empfehlen, die sich in ihrem Berufsalltag mit unterschiedlichen und komplexen Themen auseinandersetzen muss.\r\nEs ist ein sehr detaillierter Weg, um herauszufinden, wo Ihre Vorteile liegen und in welchem Bereich Sie die Chance haben, sich weiterzuentwickeln um effizienter zu werden und gleichzeitig sowohl im Beruf, als auch in zwischenmenschlichen Beziehungen stets überlegt und souverän zu agieren.\"\n\n# Christian Kühnel - Lausitzer Stahlbau Ruhland GmbH:\n\n---\n\n\"Der PRI hat mir geholfen, die Stressfaktoren besser zu identifizieren und gezielt Maßnahmen für eine positive Veränderung zu ergreifen. Wir setzen den PRI auch für unser Team ein. Alle Mitarbeiter sollen ebenfalls von diesen Vorteilen profitieren. Das hat die Bewältigung von Herausforderungen und Stress extrem leichter gemacht als früher.\"\n\n# Michael Radmer - WELL SERVICES GmbH:\n\n---\n\n\"New Frame hat mir damals geholfen, meine Augen zu öffnen. Ich wusste nicht genau, wo ich im Leben stehe bzw. wo mein Weg irgendwann hinführen sollte. Durch verschiedene Coachings konnte ich herausfinden, wo mein derzeitiger Standpunkt gerade ist und was ich brauche um die wichtigen Entscheidungen für meine Zukunft zu treffen. \r\nAuch sportlich war das Coaching ein voller Erfolg. Als zweite Torhüterin ist es oft nicht leicht, ruhig und sachlich auf die Situation zu schauen. Durch das Coaching habe ich viele Techniken erlernt, die ich auf gewisse Situationen im Sport anwenden kann, um auch mal einen anderen Blickwinkel auf manche Dinge zu bekommen. Eine neutrale Sicht auf viele Situationen hilft manchmal...\n\n# Anna Klink - Torhüterin Bayer 04 Leverkusen - Duale Karriere:\n\n---\n\n\"...Ihr Auftrag war es, uns als junges und neu zusammengestelltes Team in unseren bestehenden Abläufen zu analysieren, weiter zu entwickeln und gewinnbringend zu unterstützen. Dies haben Sie in mehreren Ein- und Mehrtagesseminaren hervorragend umgesetzt.\r\nDie Vorbereitung auf die einzelnen Schulungen war immer sehr professionell. Sowohl die Auswahl der Übungen mit einem Wechsel zwischen theoretischem Input und Gruppenarbeiten in der Praxis, als auch die Vermittlung der Inhalte waren stets leicht nachvollziehbar und sehr gut erklärt. Dies machte die vorgeschlagene Implementierung der Ergebnisse in unsere Prozesse sehr einfach...\"\n\n# Herbert Ott - Betriebliches Gesundheitsmanagement TSV Bayer 04 Leverkusen e.V.:\n\n [Link zum vollständigen Referenzschreiben](../assets/documents/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf)"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/2023/12/18/coaching-training-new-frame.jpg",
+        "https://new-frame.de/images/consulting/consulting-new-frame.jpg",
+        "https://new-frame.de/images/pdf/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf",
+        "https://new-frame.de/images/slideshows/startseite.jpg",
+        "https://new-frame.de/images/team/christiane_waller.jpg",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}

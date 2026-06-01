@@ -1,0 +1,39 @@
+{
+    "url": "https://new-frame.de/deutsch/aktuelles/2017.html?view=archive&month=5",
+    "slug": "aktuelles_2017",
+    "title": "Aktuelles - new-frame⎪Training, Coaching & Consulting",
+    "meta_description": "new-frame bietet Dienstleistungen für Einzelpersonen und Unternehmen in den Bereichen Training, Coaching und Consulting an. Erfahren Sie mehr!",
+    "meta_keywords": "new-frame, Training, Coaching, Consulting, Spitzenleistungen mit Spitzensportlern, Duale Karriere, wingwave, Vereinsentwicklung",
+    "components": [
+        {
+            "type": "logo",
+            "title": "Website Logo",
+            "text_content": "# [![new-frame](../assets/images/logo/logo.png)](./home.md)"
+        },
+        {
+            "type": "menu",
+            "title": "Navigation Menu",
+            "text_content": "- [Startseite](./home.md)\n- [Consulting](./consulting.md)\n- [Coaching/Training](./coaching.md)\n- [Aktuelles](./aktuelles.md)\n- [Über mich](./team.md)\n- [Netzwerk](./netzwerk.md)\n- [Kontakt](./kontakt.md)"
+        },
+        {
+            "type": "article_content",
+            "title": "Main Article Content",
+            "text_content": "MonatJanFebMärAprMaiJunJulAugSepOktNovDezJahr2015201720195101520253050100AlleFilter\n\n## [Lust auf Erfolg? Workshops mit Markus Rehm](./aktuelles_63-lust-auf-erfolg-workshops-mit-markus-rehm.md)\n\nDetailsVeröffentlicht: 08. Mai 2017\n\n**![new frame workshops mit markus rehm](../assets/images/2017/new-frame_workshops_mit_markus_rehm.png)** [Markus Rehm](./component_content_id_59.md)\n\nSeine Geschichte und was Markus Rehm daraus gemacht hat, ist der Kern unseres Workshops. Wir geben Ihnen nicht nur die Möglichkeit, direkt mehr von ihm dazu zu erfahren, sondern auch seine Strategien für eine durchgängige Motivation zusammen mit versierten Trainern kennenzulernen und in Anwendung zu bringen.\n\n**Der Workshop findet am 24.06.2017 von 10.00 - 17.00 Uhr auf Schloß Eulenbroich statt.**\n\n[www.schloss-eulenbroich.de](http://www.schloss-eulenbroich.de)\n\nIhre Investition für diesen Tag voller Ereignisse ist € 350.- inkl. MwSt. Für Getränke und Snacks wird gesorgt.\n\n**Anmeldungen sind leider nicht mehr möglich,Anmeldeschluss war der 19. Juni 2017 um 11 Uhr.**\n\nDetails"
+        },
+        {
+            "type": "social_links",
+            "title": "Social Media Links",
+            "text_content": "### Ältere Beiträge\n\n- [September, 2019](./aktuelles_2019.md)\n- [Mai, 2017](./aktuelles_2017.md)\n- [April, 2017](./aktuelles_2017.md)\n- [September, 2015](./aktuelles_2015.md)\n- [August, 2015](./aktuelles_2015.md)\n\n### Vernetzen\n\n## LinkedIn\n\n## XING\n\n## YouTube"
+        },
+        {
+            "type": "footer_copyright",
+            "title": "Footer & Legal Links",
+            "text_content": "[new-frame](http://www.new-frame.de)\n\n- [Impressum](./impressum.md)\n- [Datenschutz](./datenschutz.md)\n- [AGBs](./agbs.md)"
+        }
+    ],
+    "assets_used": [
+        "http://new-frame.de/modules/mod_cookiesaccept/img/close.png",
+        "https://new-frame.de/images/2017/new-frame_workshops_mit_markus_rehm.png",
+        "https://new-frame.de/templates/favourite/images/logo/logo.png"
+    ]
+}
