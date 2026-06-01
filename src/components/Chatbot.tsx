@@ -135,7 +135,7 @@ export const Chatbot: React.FC = () => {
             <div className="bg-brand-dark text-white px-5 py-4 border-b border-brand-gold/15 flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <img
-                  src="/assets/images/team/christiane_waller.jpg"
+                  src="assets/images/team/christiane_waller.jpg"
                   alt="Christiane Waller Avatar"
                   className="h-8 w-8 rounded-full border border-brand-gold/30 object-cover object-top shrink-0"
                 />
@@ -163,7 +163,7 @@ export const Chatbot: React.FC = () => {
                   <div className={`flex items-start gap-2.5 ${msg.sender === 'user' ? 'justify-end' : 'justify-start'}`}>
                     {msg.sender === 'bot' && (
                       <img
-                        src="/assets/images/logo/logo.png"
+                        src="assets/images/logo/logo.png"
                         alt="new-frame Avatar"
                         className="h-6 w-6 rounded-full border border-gray-200 p-0.5 bg-white object-contain shrink-0 mt-0.5"
                       />
@@ -255,7 +255,7 @@ export const Chatbot: React.FC = () => {
               {isTyping && (
                 <div className="flex items-start gap-2.5 justify-start">
                   <img
-                    src="/assets/images/logo/logo.png"
+                    src="assets/images/logo/logo.png"
                     alt="new-frame Avatar"
                     className="h-6 w-6 rounded-full border border-gray-200 p-0.5 bg-white object-contain shrink-0 mt-0.5"
                   />

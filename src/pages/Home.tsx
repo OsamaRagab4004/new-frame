@@ -23,7 +23,7 @@ const testimonials = [
     text: "...Ihr Auftrag war es, uns als junges und neu zusammengestelltes Team in unseren bestehenden Abläufen zu analysieren, weiter zu entwickeln und gewinnbringend zu unterstützen. Dies haben Sie in mehreren Ein- und Mehrtagesseminaren hervorragend umgesetzt. Die Vorbereitung auf die einzelnen Schulungen war immer sehr professionell. Sowohl die Auswahl der Übungen mit einem Wechsel zwischen theoretischem Input und Gruppenarbeiten in der Praxis, als auch die Vermittlung der Inhalte waren stets leicht nachvollziehbar und sehr gut erklärt. Dies machte die vorgeschlagene Implementierung der Ergebnisse in unsere Prozesse sehr einfach...",
     author: "Herbert Ott",
     company: "Betriebliches Gesundheitsmanagement TSV Bayer 04 Leverkusen e.V.",
-    pdfLink: "/assets/documents/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf"
+    pdfLink: "assets/documents/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf"
   }
 ];
 
@@ -31,10 +31,10 @@ const clientLogos = [
   { name: "Bayer 04 Leverkusen", type: "text" },
   { name: "Lausitzer Stahlbau", type: "text" },
   { name: "WELL SERVICES GmbH", type: "text" },
-  { name: "Issberner Consulting", type: "image", src: "/assets/images/network/issberner_coaching_consulting.png" },
-  { name: "Peaceful Heart Network", type: "image", src: "/assets/images/network/TTT-empower-logo.png" },
-  { name: "EMCA", type: "image", src: "/assets/images/network/EMCA_logo_kl.png" },
-  { name: "Seminarmarkt.de", type: "image", src: "/assets/images/weiterbildungsexperten_200px.png" }
+  { name: "Issberner Consulting", type: "image", src: "assets/images/network/issberner_coaching_consulting.png" },
+  { name: "Peaceful Heart Network", type: "image", src: "assets/images/network/TTT-empower-logo.png" },
+  { name: "EMCA", type: "image", src: "assets/images/network/EMCA_logo_kl.png" },
+  { name: "Seminarmarkt.de", type: "image", src: "assets/images/weiterbildungsexperten_200px.png" }
 ];
 
 export const Home: React.FC = () => {
@@ -66,7 +66,7 @@ export const Home: React.FC = () => {
             initial={{ scale: 1.1 }}
             animate={{ scale: 1.0 }}
             transition={{ duration: 2.5, ease: 'easeOut' }}
-            src="/assets/images/slideshows/startseite.jpg"
+            src="assets/images/slideshows/startseite.jpg"
             alt="new-frame Startseite Banner"
             className="w-full h-full object-cover opacity-35 object-center"
           />
@@ -151,7 +151,7 @@ export const Home: React.FC = () => {
                 className="relative rounded-[2.5rem] overflow-hidden border-4 border-white/10 shadow-2xl w-[320px] sm:w-[350px] aspect-[4/5] max-w-full"
               >
                 <img
-                  src="/assets/images/team/christiane_waller.jpg"
+                  src="assets/images/team/christiane_waller.jpg"
                   alt="Christiane Waller - new-frame Coach"
                   className="w-full h-full object-cover object-top scale-102 hover:scale-105 transition-transform duration-700"
                 />
@@ -317,7 +317,7 @@ export const Home: React.FC = () => {
             >
               <div className="relative h-72 sm:h-80 overflow-hidden">
                 <img
-                  src="/assets/images/consulting/consulting-new-frame.jpg"
+                  src="assets/images/consulting/consulting-new-frame.jpg"
                   alt="new-frame Consulting"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                 />
@@ -354,7 +354,7 @@ export const Home: React.FC = () => {
             >
               <div className="relative h-72 sm:h-80 overflow-hidden">
                 <img
-                  src="/assets/images/2023/12/18/coaching-training-new-frame.jpg"
+                  src="assets/images/2023/12/18/coaching-training-new-frame.jpg"
                   alt="new-frame Coaching & Training"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                 />
@@ -546,7 +546,7 @@ export const Home: React.FC = () => {
             {/* Profile Image Column */}
             <div className="relative min-h-[380px] lg:min-h-full lg:col-span-5 overflow-hidden">
               <img
-                src="/assets/images/team/christiane_waller.jpg"
+                src="assets/images/team/christiane_waller.jpg"
                 alt="Christiane Waller - new-frame"
                 className="absolute inset-0 w-full h-full object-cover object-top hover:scale-102 transition-transform duration-700"
               />

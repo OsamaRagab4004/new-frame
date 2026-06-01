@@ -5,7 +5,7 @@ import { ShieldCheck, MapPin, ExternalLink } from 'lucide-react';
 const partners = [
   {
     name: "Issberner Coaching & Consulting",
-    logo: "/assets/images/network/issberner_coaching_consulting.png",
+    logo: "assets/images/network/issberner_coaching_consulting.png",
     subtitle: "Dr. Karin Issberner",
     address: "Mutschenweg 40b, 47877 Willich, Germany",
     description: "Spezialisiert auf systemisches Coaching, Führungskräfteentwicklung und strategische Beratung. Langjährige Partnerin im new-frame Expertennetzwerk.",
@@ -13,7 +13,7 @@ const partners = [
   },
   {
     name: "Peaceful Heart Network (Sweden)",
-    logo: "/assets/images/network/TTT-empower-logo.png",
+    logo: "assets/images/network/TTT-empower-logo.png",
     subtitle: "TTT - Trauma Tapping Technique",
     contact: "Gunilla Hamne & Ulf Sandström",
     description: "Ein weltweites humanitäres Netzwerk zur Traumabewältigung und Selbsthilfe. Schulung einfacher Techniken zur emotionalen Stabilisierung in Krisenregionen.",
@@ -21,7 +21,7 @@ const partners = [
   },
   {
     name: "EMCA (European Multisport Club Association)",
-    logo: "/assets/images/network/EMCA_logo_kl.png",
+    logo: "assets/images/network/EMCA_logo_kl.png",
     subtitle: "Multisport Club Association",
     address: "Via Monte Zebio 9, CAP: 00195 Rome, Italy",
     description: "Dachverband europäischer Breitensportvereine zur Förderung von Gesundheit, Sportkooperationen und dualen Karrierewegen für junge Spitzenathleten.",

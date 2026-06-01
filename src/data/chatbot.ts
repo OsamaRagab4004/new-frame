@@ -117,7 +117,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'coach_wingwave',
     message: '🦋 wingwave® Kurzzeit-Coaching (Emotions-Coaching)\n\nErleben Sie eine der effektivsten Methoden zur schnellen Stressreduktion und Leistungssteigerung. Wissenschaftlich bestens erforscht und im Spitzensport sowie Management bewährt. Durch gezielte visuelle Stimulation (REM-Phasen-Simulation) lösen wir emotionale Blockaden, Rede- oder Prüfungsängste oft in wenigen Sitzungen dauerhaft auf.',
     actions: [
-      { type: 'pdf', label: 'wingwave® in der Sportpraxis (PDF)', payload: '/assets/documents/images/downloads/sport-coaching_wingwave.pdf' },
+      { type: 'pdf', label: 'wingwave® in der Sportpraxis (PDF)', payload: 'assets/documents/images/downloads/sport-coaching_wingwave.pdf' },
       { type: 'link', label: 'Offizielle wingwave® Website', payload: 'http://wingwave.com/' }
     ],
     options: [
@@ -203,7 +203,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'ref_klink',
     message: '⚽ Anna Klink (Torhüterin Bayer 04 Leverkusen):\n\n„New Frame hat mir die Augen geöffnet. Durch Coachings habe ich meinen Standpunkt definiert, wichtige Zukunftsentscheidungen getroffen und mentale Techniken erlernt, die mir im Leistungssport enorme Ruhe schenken.“',
     actions: [
-      { type: 'video', label: 'Testimonial Anna Klink ansehen', payload: '/assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4', poster: '/assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg' }
+      { type: 'video', label: 'Testimonial Anna Klink ansehen', payload: 'assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4', poster: 'assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg' }
     ],
     options: [
       { label: 'Andere Referenzen einsehen', nodeId: 'about_refs' },
@@ -214,7 +214,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'ref_ott',
     message: '🏥 Herbert Ott (TSV Bayer 04 Leverkusen - BGM):\n\n„Mehrere Schulungen wurden hervorragend umgesetzt. Professionelle Vorbereitung, super verständliche Vermittlung und kinderleichte Implementierung der Ergebnisse in unsere Betriebsabläufe.“',
     actions: [
-      { type: 'pdf', label: 'Referenzschreiben TSV Bayer 04 (PDF)', payload: '/assets/documents/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf' }
+      { type: 'pdf', label: 'Referenzschreiben TSV Bayer 04 (PDF)', payload: 'assets/documents/Referenz_TSV_Betriebliches_Gesundheitsmanagement.pdf' }
     ],
     options: [
       { label: 'Andere Referenzen einsehen', nodeId: 'about_refs' },
@@ -237,7 +237,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'vid_imagefilm',
     message: '🎥 new-frame Imagefilm:\n\nEntdecken Sie unser Credo, unsere Räumlichkeiten und gewinnen Sie unmittelbare Einblicke in die Arbeit mit Führungskräften und Profisportlern.',
     actions: [
-      { type: 'video', label: 'new-frame Imagefilm abspielen', payload: '/assets/videos/new-frame_imagefilm_christiane_waller_s.mp4', poster: '/assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg' }
+      { type: 'video', label: 'new-frame Imagefilm abspielen', payload: 'assets/videos/new-frame_imagefilm_christiane_waller_s.mp4', poster: 'assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg' }
     ],
     options: [
       { label: 'Anderes Video ansehen', nodeId: 'media' },
@@ -248,7 +248,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'vid_klink',
     message: '⚽ Testimonial Anna Klink:\n\nErfahren Sie direkt von der Bundesliga-Torhüterin, wie Personal Coaching mentale Stärke unter extremem Leistungsdruck freisetzt.',
     actions: [
-      { type: 'video', label: 'Anna Klink Testimonial abspielen', payload: '/assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4', poster: '/assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg' }
+      { type: 'video', label: 'Anna Klink Testimonial abspielen', payload: 'assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4', poster: 'assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg' }
     ],
     options: [
       { label: 'Anderes Video ansehen', nodeId: 'media' },
@@ -259,7 +259,7 @@ export const chatbotDatabase: Record<string, ChatNode> = {
     id: 'vid_karriere',
     message: '🏆 Duale Karriere & Mentalstärke:\n\nStatements über die erfolgreiche Balance zwischen Profisport, akademischer Karriere und mentalem Begleitcoaching im Rahmen der Kooperation mit Bayer Leverkusen.',
     actions: [
-      { type: 'video', label: 'Duale Karriere Video abspielen', payload: '/assets/videos/newframeblog_Duale-Karriere_01.mp4', poster: '/assets/images/videos/newframeblog_Duale-Karriere_01.jpg' }
+      { type: 'video', label: 'Duale Karriere Video abspielen', payload: 'assets/videos/newframeblog_Duale-Karriere_01.mp4', poster: 'assets/images/videos/newframeblog_Duale-Karriere_01.jpg' }
     ],
     options: [
       { label: 'Anderes Video ansehen', nodeId: 'media' },

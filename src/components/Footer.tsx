@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/assets/images/logo/logo.png"
+                src="assets/images/logo/logo.png"
                 alt="new-frame logo"
                 className="h-10 w-auto object-contain"
               />

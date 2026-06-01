@@ -73,7 +73,7 @@ const coachingTabs = [
             </a>
             <span className="text-gray-300 hidden sm:block">|</span>
             <a
-              href="/assets/documents/images/downloads/sport-coaching_wingwave.pdf"
+              href="assets/documents/images/downloads/sport-coaching_wingwave.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-brand-red hover:text-brand-red-dark font-semibold transition-colors"
@@ -186,8 +186,8 @@ export const Coaching: React.FC = () => {
                   Imagefilm: new-frame im Überblick
                 </h3>
                 <CustomVideoPlayer
-                  src="/assets/videos/new-frame_imagefilm_christiane_waller_s.mp4"
-                  poster="/assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg"
+                  src="assets/videos/new-frame_imagefilm_christiane_waller_s.mp4"
+                  poster="assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg"
                 />
               </div>
 
@@ -208,7 +208,7 @@ export const Coaching: React.FC = () => {
                   className="shrink-0 group hover:opacity-90 transition-opacity"
                 >
                   <img
-                    src="/assets/images/weiterbildungsexperten_200px.png"
+                    src="assets/images/weiterbildungsexperten_200px.png"
                     alt="Weiterbildungsexperten Siegel"
                     className="h-14 w-auto object-contain border border-gray-200 rounded-xl p-1 bg-white shadow-sm transition-transform group-hover:scale-103"
                   />

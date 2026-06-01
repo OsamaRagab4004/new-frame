@@ -16,20 +16,20 @@ const videosList = [
   {
     title: "new-frame Imagefilm",
     description: "Imagefilm über die Arbeit von new-frame, mit Stimmen von Christiane Waller (CEO new-frame) und verschiedenen Klienten.",
-    src: "/assets/videos/new-frame_imagefilm_christiane_waller_s.mp4",
-    poster: "/assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg"
+    src: "assets/videos/new-frame_imagefilm_christiane_waller_s.mp4",
+    poster: "assets/images/videos/new-frame_imagefilm_christiane_waller_s.jpg"
   },
   {
     title: "Testimonial Anna Klink",
     description: "Anna Klink spricht als Torhüterin und U20 Weltmeisterin über ihre Erfahrungen im Personal Coaching mit new-frame.",
-    src: "/assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4",
-    poster: "/assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg"
+    src: "assets/videos/new-frame_christiane_waller_testimonial_anna_klink_s.mp4",
+    poster: "assets/images/videos/new-frame_christiane_waller_testimonial_anna_klink_s.jpg"
   },
   {
     title: "Duale Karriere: Anna Klink",
     description: "Statements von Torhüterin Anna Klink über die Vorteile des Trainings und des dualen Karrierecoachings über den TSV Bayer 04 Leverkusen.",
-    src: "/assets/videos/newframeblog_Duale-Karriere_01.mp4",
-    poster: "/assets/images/videos/newframeblog_Duale-Karriere_01.jpg"
+    src: "assets/videos/newframeblog_Duale-Karriere_01.mp4",
+    poster: "assets/images/videos/newframeblog_Duale-Karriere_01.jpg"
   }
 ];
 
@@ -62,7 +62,7 @@ export const Team: React.FC = () => {
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-brand-cream aspect-[4/5] max-w-md mx-auto lg:max-w-none">
                 <img
-                  src="/assets/images/team/christiane_waller.jpg"
+                  src="assets/images/team/christiane_waller.jpg"
                   alt="Christiane Waller"
                   className="w-full h-full object-cover object-top hover:scale-[1.02] transition-transform duration-500"
                 />

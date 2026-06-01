@@ -52,7 +52,7 @@ export const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 group">
             <img
-              src="/assets/images/logo/logo.png"
+              src="assets/images/logo/logo.png"
               alt="new-frame Logo"
               className="h-10 sm:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
             />

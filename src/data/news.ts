@@ -17,7 +17,7 @@ export const newsArticles: NewsArticle[] = [
     slug: "resilienz-test-personal-resilience-indicator-pri",
     title: "Resilienz-Test Personal Resilience Indicator – PRI",
     date: "16. September 2022",
-    image: "/assets/images/pri_resilienz-resilience-test_new-frame_christiane-waller.jpg",
+    image: "assets/images/pri_resilienz-resilience-test_new-frame_christiane-waller.jpg",
     excerpt: "Was ist der PRI? Der Personal Resilience Indicator (PRI) beruht auf Selbsteinschätzungen der Teilnehmer:innen...",
     content: `### Was ist der PRI?
 
@@ -45,7 +45,7 @@ Der achtsame Umgang mit Emotionen kann erlernt und vertieft werden. Für mehr in
     slug: "seminarreise-auszeit-mit-gipfelstuermen-teneriffa-2020",
     title: "Seminarreise \"Auszeit mit Gipfelstürmen\" Teneriffa 2020",
     date: "18. September 2019",
-    image: "/assets/images/news/teneriffa_2020/S_Flyer_Auszeit_2020_online.jpg",
+    image: "assets/images/news/teneriffa_2020/S_Flyer_Auszeit_2020_online.jpg",
     excerpt: "Bewegen - Entspannen – Reflektieren. In dieser Woche haben Sie die Möglichkeit, sich intensiv um sich selbst zu kümmern...",
     content: `**Bewegen - Entspannen – Reflektieren**
 
@@ -58,7 +58,7 @@ Nutzen Sie diese Gelegenheit, um inmitten der atemberaubenden Natur Teneriffas n
     slug: "lust-auf-erfolg-workshops-mit-markus-rehm",
     title: "Lust auf Erfolg? Workshops mit Markus Rehm",
     date: "08. Mai 2017",
-    image: "/assets/images/2017/new-frame_workshops_mit_markus_rehm.png",
+    image: "assets/images/2017/new-frame_workshops_mit_markus_rehm.png",
     excerpt: "Seine Geschichte und was Markus Rehm daraus gemacht hat, ist der Kern unseres Workshops. Erfahren Sie mehr über Motivation...",
     content: `Seine Geschichte und was Markus Rehm daraus gemacht hat, ist der Kern unseres Workshops. Wir geben Ihnen nicht nur die Möglichkeit, direkt mehr von ihm dazu zu erfahren, sondern auch seine Strategien für eine durchgängige Motivation zusammen mit versierten Trainern kennenzulernen und in Anwendung zu bringen.
 
@@ -73,14 +73,14 @@ Weitere Details zum Tagungsort finden Sie unter [www.schloss-eulenbroich.de](htt
     slug: "ttt-trauma-tapping-technique",
     title: "TTT - Trauma Tapping Technique",
     date: "25. April 2017",
-    image: "/assets/images/news/ttt/zertifikat_ttt_christiane_waller.png",
+    image: "assets/images/news/ttt/zertifikat_ttt_christiane_waller.png",
     excerpt: "Erfolgreicher Zertifikatsabschluss von Christiane Waller in der Trauma Tapping Technique (TTT). Download des Zertifikats...",
     content: `**TTT - Trauma Tapping Technique** ist eine bewährte, einfache und effektive Selbsthilfe-Methode zur Stress- und Traumalinderung, die weltweit in Krisengebieten erfolgreich eingesetzt wird. Christiane Waller hat diese Ausbildung erfolgreich abgeschlossen.
 
 Gerne integrieren wir TTT in unsere Coaching-Sitzungen zur emotionalen Entlastung.
 
 [Kontaktieren Sie uns für ein unverbindliches Erstgespräch](/kontakt)`,
-    pdfLink: "/assets/documents/ttt-certified-christiane_waller_2017.pdf",
+    pdfLink: "assets/documents/ttt-certified-christiane_waller_2017.pdf",
     pdfText: "Zertifikat 'TTT - Trauma Tapping Technique' als PDF-Datei ansehen"
   },
   {
@@ -93,12 +93,12 @@ Gerne integrieren wir TTT in unsere Coaching-Sitzungen zur emotionalen Entlastun
 
 Der offene Austausch im Rahmen der dualen Karriereförderung von Spitzensportlern wurde von beiden Seiten als äußerst informativ und zukunftsweisend empfunden.`,
     images: [
-      "/assets/images/news/vortrag_peking_uni/thumbs/1_new_frame_tsinghua_universitaet_beijing2.jpg",
-      "/assets/images/news/vortrag_peking_uni/thumbs/2_new_frame_vortrag_universitaet1.jpg",
-      "/assets/images/news/vortrag_peking_uni/thumbs/3_new_frame_vortrag_universitaet2.jpg",
-      "/assets/images/news/vortrag_peking_uni/thumbs/4_new_frame_vortrag_universitaet3.jpg",
-      "/assets/images/news/vortrag_peking_uni/thumbs/5_new_frame_vortrag_universitaet4.jpg",
-      "/assets/images/news/vortrag_peking_uni/thumbs/6_new_frame_tsinghua_universitaet_beijing.jpg"
+      "assets/images/news/vortrag_peking_uni/thumbs/1_new_frame_tsinghua_universitaet_beijing2.jpg",
+      "assets/images/news/vortrag_peking_uni/thumbs/2_new_frame_vortrag_universitaet1.jpg",
+      "assets/images/news/vortrag_peking_uni/thumbs/3_new_frame_vortrag_universitaet2.jpg",
+      "assets/images/news/vortrag_peking_uni/thumbs/4_new_frame_vortrag_universitaet3.jpg",
+      "assets/images/news/vortrag_peking_uni/thumbs/5_new_frame_vortrag_universitaet4.jpg",
+      "assets/images/news/vortrag_peking_uni/thumbs/6_new_frame_tsinghua_universitaet_beijing.jpg"
     ]
   },
   {
@@ -110,17 +110,17 @@ Der offene Austausch im Rahmen der dualen Karriereförderung von Spitzensportler
     content: `Ein großes Dankeschön gilt allen Beteiligten, Partnern und Gästen für diese mehr als gelungene Auftaktveranstaltung. Das innovative Konzept, bei dem Teilnehmer von Spitzenathleten für den beruflichen Alltag lernen können, stieß auf breite Begeisterung.
 
 Laden Sie sich gerne den offiziellen Informationsflyer der Veranstaltung herunter.`,
-    pdfLink: "/assets/documents/images/downloads/startschuss_neues_trainingskonzept_new-frame.pdf",
+    pdfLink: "assets/documents/images/downloads/startschuss_neues_trainingskonzept_new-frame.pdf",
     pdfText: "Startschuss Trainingskonzept Flyer herunterladen",
     images: [
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_001.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_002.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_025.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_059.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_061.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil1_097.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil2_001.jpg",
-      "/assets/images/news/kickoff_2015/thumbs/workshop_teil2_022.jpg"
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_001.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_002.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_025.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_059.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_061.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil1_097.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil2_001.jpg",
+      "assets/images/news/kickoff_2015/thumbs/workshop_teil2_022.jpg"
     ]
   },
   {
@@ -133,10 +133,10 @@ Laden Sie sich gerne den offiziellen Informationsflyer der Veranstaltung herunte
 
 Im Austausch mit Regierungsvertretern und Sportmanagern ging es darum, neue Konzepte zur gezielten Persönlichkeitsentwicklung und Karrierebegleitung der Athletinnen und Athleten zu etablieren. Die genauen Rahmenbedingungen dieser Kooperationen werden in den kommenden Monaten erarbeitet.`,
     images: [
-      "/assets/images/news/china_2015/thumbs/Erstliga-Fussball-Mannschaft_Jiangsu-Guoxin-Sainty_China.JPG",
-      "/assets/images/news/china_2015/thumbs/Tempelanlage-China.JPG",
-      "/assets/images/news/china_2015/thumbs/Terrakotta-Armee_Xi-An_China.JPG",
-      "/assets/images/news/china_2015/thumbs/new-frame_China.JPG"
+      "assets/images/news/china_2015/thumbs/Erstliga-Fussball-Mannschaft_Jiangsu-Guoxin-Sainty_China.JPG",
+      "assets/images/news/china_2015/thumbs/Tempelanlage-China.JPG",
+      "assets/images/news/china_2015/thumbs/Terrakotta-Armee_Xi-An_China.JPG",
+      "assets/images/news/china_2015/thumbs/new-frame_China.JPG"
     ]
   },
   {
@@ -150,7 +150,7 @@ Im Austausch mit Regierungsvertretern und Sportmanagern ging es darum, neue Konz
 In diesem Rahmen vermitteln wir die mentalen Erfolgsstrategien des Spitzensports direkt an Fach- und Führungskräfte in der Wirtschaft.
 
 Gerne beraten wir Sie in einem persönlichen Gespräch über die Möglichkeiten.`,
-    pdfLink: "/assets/documents/images/downloads/spitzenleistungen_mit_spitzensportlern_new-frame_2015.pdf",
+    pdfLink: "assets/documents/images/downloads/spitzenleistungen_mit_spitzensportlern_new-frame_2015.pdf",
     pdfText: "Spitzenleistungen mit Spitzensportlern PDF-Flyer herunterladen"
   }
 ];
